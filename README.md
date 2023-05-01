@@ -2,10 +2,10 @@
 ###### This is a clone of the Google's main page that it's  made as a practice in  HTML and CSS.
 
 ## Índice 
-* [Intro]()
-* [¿Qué construí?]()
-* [Objetivos del proyecto]()
-* [Link al Demo]()
+* [Intro](#Intro)
+* [¿Qué construí?](#¿Qué construí?)
+* [Objetivos del proyecto](#Objetivos del proyecto)
+* [Link al Demo](#Link al Demo)
 
 ***
 
