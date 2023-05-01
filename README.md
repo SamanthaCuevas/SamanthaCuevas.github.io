@@ -2,10 +2,10 @@
 ###### This is a clone of the Google's main page that it's  made as a practice in  HTML and CSS.
 
 ## Índice 
-* [Intro](#Intro)
-* [¿Qué construí?](#¿Qué construí?)
-* [Objetivos del proyecto](#Objetivos del proyecto)
-* [Link al Demo](#Link al Demo)
+* [Intro](https://github.com/SamanthaCuevas/SamanthaCuevas.github.io/blob/main/README.md#intro)
+* [¿Qué construí?](https://github.com/SamanthaCuevas/SamanthaCuevas.github.io/blob/main/README.md#qu%C3%A9-constru%C3%AD)
+* [Objetivos del proyecto](https://github.com/SamanthaCuevas/SamanthaCuevas.github.io/blob/main/README.md#objetivo-del-proyecto)
+* [Link al Demo](https://github.com/SamanthaCuevas/SamanthaCuevas.github.io/blob/main/README.md#link-del-demo)
 
 ***
 
